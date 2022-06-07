@@ -1,2 +1,2 @@
 # openwrt-packages
-openwrt custom feeds packages
+from kenzok8 and other author's openwrt feeds packages 
