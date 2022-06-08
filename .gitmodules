@@ -1,3 +1,0 @@
-[submodule "luci-app-npc"]
-	path = luci-app-npc
-	url = ./luci-app-npc
