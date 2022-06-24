@@ -1,0 +1,12 @@
+
+config npc 'config'
+	option enabled '0'
+	option server_addr 'nps.jcjc668.com'
+	option server_port '38024'
+	option protocol 'tcp'
+	option compress '1'
+	option crypt '1'
+	option vkey 'aaa'
+	option log_level '4'
+	option auto_reconnection 'true'
+
