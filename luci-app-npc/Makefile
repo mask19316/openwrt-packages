@@ -6,15 +6,14 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI support for Nps 0.26.10
+LUCI_TITLE:=LuCI for Nps Client 0.26.10
 LUCI_DEPENDS:=+wget +npc
 LUCI_PKGARCH:=all
-
-PKG_NAME:=luci-app-nps
 PKG_VERSION:=1.1
-PKG_RELEASE:=5
+PKG_RELEASE:=2
 
-#include ../../luci.mk
 include $(TOPDIR)/feeds/luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature
+
+
